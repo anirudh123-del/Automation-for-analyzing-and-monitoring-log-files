@@ -15,7 +15,7 @@ This script is designed to automate the analysis and monitoring of log files. It
 1. Clone the repository:
 
     ```
-    git clone <>
+    git clone <https://github.com/anirudh123-del/Automation-for-analyzing-and-monitoring-log-files>
     ```
 
 2. Navigate to the project directory:
