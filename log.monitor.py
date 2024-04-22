@@ -12,6 +12,7 @@ def signal_handler(sig, frame):
 
 # Define log file path
 log_file_path = "your_log_file.log"
+# Make sure to replace "your_log_file.log" with the path to the log file you want to monitor.
 
 # Define keywords to monitor
 keywords_to_monitor = ["ERROR", "HTTP"]
