@@ -1,4 +1,4 @@
-# Automation-for-analyzing-and-monitoring-log-files
+# Python Script-for-analyzing-and-monitoring-log-files
 Creating a script that automates the analysis and monitoring of log files
 # Log Analysis and Monitoring Script
 
